@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+  }
+  h1 {
+    text-align: center;
+  }
+  h6 {
+    text-align: center;
+  }
+  form {
+    margin:auto;
+    width: 200px;
+  }
+  input {
+    width: 100%;
+    padding: 5px;
+    border: 2px solid black;
+  }
+  input[type="submit"] {
+    background-color: #000;
+    color: #e6ee0a;
+    padding: 5%;
+    border: none;
+  }
+  #fahrenheit {
+    font-weight: bold;
+  }
+  p{
+    font-size: large;
+  }
